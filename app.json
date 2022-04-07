@@ -1,7 +1,7 @@
 {
-  "name": "ʜᴇʀᴏ ᴍᴜsɪᴄs ʙᴏᴛ",
+  "name": "KAAL MUSIC",
   "description": "ᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴜsɪᴄ ʙᴏᴛ ᴡɪᴛʜ ᴘʀᴏᴘᴇʀ ғᴜɴᴄᴛɪᴏɴs ᴡʀɪᴛᴛᴇɴ ɪɴ ᴘʏᴛʜᴏɴ ᴡɪᴛʜ ᴘʏʀᴏɢʀᴀᴍ ᴀɴᴅ ᴘʏ-ᴛɢᴄᴀʟʟs.",
-  "logo": "https://te.legra.ph/file/a1dd253ae11053bfebaa3.png",
+  "logo": "https://telegra.ph/file/96141420c023cd3227f6b.jpg",
   "keywords": [
   "python3",
   "telegram"
@@ -40,17 +40,17 @@
     },
     "SUPPORT_CHANNEL": {
       "description": "Support Channel Link if you have any, Leave blank if no support. Your link must start with https://t.me/",
-      "value": "Modmenumaking",
+      "value": "",
       "required": false
     },
     "SUPPORT_GROUP": {
       "description": "Support Group Link if you have any, Leave blank if no support. Your link must start with https://t.me/",
-      "value": "Yaaro_ki_yaarii",
+      "value": "",
       "required": false
     },
     "OWNER_ID": {
       "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-      "value": "1323020756",
+      "value": "",
       "required": true
     },
     "STRING_SESSION1": {
@@ -105,7 +105,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "If you dont know this, Leave as it is",
-      "value": "https://github.com/Shailendra34/Hero-OP",
+      "value": "https://github.com/KAALR1DER/KAALVIPBOT",
       "required": true
     },
     "UPSTREAM_BRANCH": {

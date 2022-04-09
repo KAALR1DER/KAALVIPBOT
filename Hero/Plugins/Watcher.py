@@ -38,5 +38,5 @@ async def chat_watcher_func(_, message):
         except Exception:
             return
         await message.reply_text(
-            f"{checking} ɪs ɢʟᴏʙᴀʟʟʏ ʙᴀɴɴᴇᴅ ʙʏ sᴜᴅᴏ ᴜsᴇʀs ᴀɴᴅ ʜᴀs ʙᴇᴇɴ ᴋɪᴄᴋᴇᴅ ᴏᴜᴛ ᴏғ ᴛʜᴇ ᴄʜᴀᴛ...\n\n**ᴘᴏssɪʙʟᴇ ʀᴇᴀsᴏɴ:** ᴘᴏᴛᴇɴᴛɪᴀʟ sᴘᴀᴍᴍᴇʀ ᴀɴᴅ ᴀʙᴜsᴇʀ..."
+            f"{checking} ɪs ɢʟᴏʙᴀʟʟʏ ʙᴀɴɴᴇᴅ ʙʏ sᴜᴅᴏ ᴜsᴇʀs ᴀɴᴅ ʜᴀs ʙᴇᴇɴ ᴋɪᴄᴋᴇᴅ ᴏᴜᴛ ᴏғ ᴛʜᴇ ᴄʜᴀᴛ 𝐁𝐘 𝐊𝐀𝐀𝐋 𝐌𝐔𝐒𝐈𝐂...\n\n**ᴘᴏssɪʙʟᴇ ʀᴇᴀsᴏɴ:** ᴘᴏᴛᴇɴᴛɪᴀʟ sᴘᴀᴍᴍᴇʀ ᴀɴᴅ ᴀʙᴜsᴇʀ..."
         )

@@ -25,7 +25,8 @@ async def bot_sys_stats():
 ᴜᴘᴛɪᴍᴇ: {get_readable_time((bot_uptime))}
 ᴄᴘᴜ: {cpu}%
 ʀᴀᴍ: {mem}%
-ᴅɪsᴋ: {disk}%"""
+ᴅɪsᴋ: {disk}%
+𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘: {[𝐊𝐀𝐀𝐋](@ITS_HEAVEN_KING)}"""
     return stats
 
 

@@ -26,7 +26,7 @@ async def bot_sys_stats():
 ᴄᴘᴜ: {cpu}%
 ʀᴀᴍ: {mem}%
 ᴅɪsᴋ: {disk}%
-𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘: {[𝐊𝐀𝐀𝐋](@ITS_HEAVEN_KING)}"""
+𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘: {[𝐊𝐀𝐀𝐋](https://t.me/ITS_HEAVEN_KING)}"""
     return stats
 
 

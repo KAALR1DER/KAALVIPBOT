@@ -91,7 +91,7 @@ async def lrsearch(_, message: Message):
     if S is None:
         return await m.edit("ʟʏʀɪᴄs ɴᴏᴛ ғᴏᴜɴᴅ...")
     xxx = f"""
-**ʟʏʀɪᴄs sᴇᴀʀᴄʜ ᴘᴏᴡᴇʀᴇᴅ ʙʏ {MUSIC_BOT_NAME}**
+**ʟʏʀɪᴄs sᴇᴀʀᴄʜ ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝐊𝐀𝐀𝐋 𝐌𝐔𝐒𝐈𝐂**
 
 **sᴇᴀʀᴄʜᴇᴅ sᴏɴɢ:-** __{query}__
 **ғᴏᴜɴᴅ ʟʏʀɪᴄs ғᴏʀ:-** __{S.title}__

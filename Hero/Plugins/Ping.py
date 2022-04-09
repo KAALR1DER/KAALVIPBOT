@@ -33,7 +33,7 @@ async def bot_sys_stats():
 async def ping(_, message):
     start = datetime.now()
     response = await message.reply_photo(
-        photo="Utils/Telegram.JPEG",
+        photo="https://telegra.ph/file/13bccc62e5a1531ed8988.jpg",
         caption="🌸 ᴘɪɴɢ...",
     )
     uptime = await bot_sys_stats()
